@@ -1,0 +1,12 @@
+C:\Users\user\source\repos\Itecc05_Collab\ITECC05_proj\ITECC05_Proj\bin\Debug\ITECC05_Proj.exe.config
+C:\Users\user\source\repos\Itecc05_Collab\ITECC05_proj\ITECC05_Proj\bin\Debug\ITECC05_Proj.exe
+C:\Users\user\source\repos\Itecc05_Collab\ITECC05_proj\ITECC05_Proj\bin\Debug\ITECC05_Proj.pdb
+C:\Users\user\source\repos\Itecc05_Collab\ITECC05_proj\ITECC05_Proj\bin\Debug\ITECC05_Proj.xml
+C:\Users\user\source\repos\Itecc05_Collab\ITECC05_proj\ITECC05_Proj\obj\Debug\ITECC05_Proj.vbproj.AssemblyReference.cache
+C:\Users\user\source\repos\Itecc05_Collab\ITECC05_proj\ITECC05_Proj\obj\Debug\ITECC05_Proj.Form1.resources
+C:\Users\user\source\repos\Itecc05_Collab\ITECC05_proj\ITECC05_Proj\obj\Debug\ITECC05_Proj.Resources.resources
+C:\Users\user\source\repos\Itecc05_Collab\ITECC05_proj\ITECC05_Proj\obj\Debug\ITECC05_Proj.vbproj.GenerateResource.cache
+C:\Users\user\source\repos\Itecc05_Collab\ITECC05_proj\ITECC05_Proj\obj\Debug\ITECC05_Proj.vbproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Itecc05_Collab\ITECC05_proj\ITECC05_Proj\obj\Debug\ITECC05_Proj.exe
+C:\Users\user\source\repos\Itecc05_Collab\ITECC05_proj\ITECC05_Proj\obj\Debug\ITECC05_Proj.xml
+C:\Users\user\source\repos\Itecc05_Collab\ITECC05_proj\ITECC05_Proj\obj\Debug\ITECC05_Proj.pdb
